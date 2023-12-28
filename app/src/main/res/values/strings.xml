@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P5p2_7S21</string>
+    <string name="Titulop1">Manejo de Fragmentos</string>
+    <string name="btn1p1">Pantalla 1</string>
+    <string name="btn2p1">Pantalla 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="f1titulo">Suma de dos numeros</string>
+    <string name="f2titulo">Resta de dos numeros</string>
+    <string name="numero1">Ingresa el primer numero</string>
+    <string name="numero2">Ingresa el segundo numero</string>
+    <string name="resultado">El resultado es:</string>
+    <string name="hint1">primer numero</string>
+    <string name="hint2">segundo numero</string>
+    <string name="btngcalcular">Procesar informacion</string>
+</resources>
